@@ -38,5 +38,37 @@ int main() //Auto-run in the program
 - *We started zoning out at 12:35*
 
 - clang-format -i main.cpp
-	- Command that can format a specific file to fit a specific formatting guide
-	- 
+	- Command that can format a specific file to fit a specific formatting guide (clang)
+
+## Class #5: 28/08/24
+
+- Are we allowed to access the Virtual Machines at all times? Are there other machines we should be using for recreational use?
+	- https://itrss.mst.edu/
+	- https://itrss.mst.edu/cluster/mill/
+
+### Variable Types
+- atuo: allows for a class to automatically be assigned to a variable based on implicit context
+- short: whole number; 2 bytes
+- int: whole number; 4 bytes
+- float: decimal number; 4 bytes
+- double: decimal number; 8 bytes
+	- long double: decimal number; 16 bytes
+- char: single character; 1 byte
+- string: collection of characters; memory dependent of size
+- boolean: true or false; 1 byte
+	- Or can be represented by integers; 0 is false, anything else is true
+
+## Class #6: 30/08/24
+- Arity: the number of things an operator works with
+- implicit type conversion: when one variable is stored into another type 
+	- Will not work with var(value) assignment
+### Operators
+- =: assignment
+- +:
+- -:
+- \ * :
+- /:
+- //
+- !:
+- == :
+- 
