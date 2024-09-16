@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2.md",
+                "file": "Week 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2.md",
+                "file": "Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2.md",
+                "file": "Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2.md"
+                "file": "Week 4.md"
               }
             }
           }
@@ -185,9 +185,9 @@
   },
   "active": "d6d7d0f8d52b3df3",
   "lastOpenFiles": [
+    "Week 2.md",
     "Week 3.md",
     "Week 1.md",
-    "Week 2.md",
     "Week 4.md",
     "Intro to Computer Science/Welcome.md"
   ]
