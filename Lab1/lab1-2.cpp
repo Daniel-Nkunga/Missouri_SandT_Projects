@@ -8,7 +8,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+glpat-tNWtWFKqXZH-bqeyqqbJ
 int main()
 {
     string name;
