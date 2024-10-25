@@ -2,7 +2,10 @@
 // Date: 09/21/2024
 // File: NkungaHW3.cpp
 // Assignment: Homework 3
-// Purpose:
+// Purpose: This program completes CS1570 Homework 3 and is the Ultimate
+// Tic-Tac-Toe Game. Players take turns placing TT's and SS's to mark their
+// position and first to three on a grid size of their choice wins! The program
+// will perist until the user ask to stop.
 
 #include <iomanip>
 #include <iostream>

@@ -1,0 +1,10 @@
+Welcome to CS1580! In this class, you will learn the foundations of C++ programming, object-oriented.
+Our course covers topics like variables, loops, conditionals, and arrays, vital for programming.
+We emphasize logical thinking and problem-solving strategies in all assignments and projects.
+The final project challenges students to develop a fully functional C++ program individually.
+This class encourages collaboration and questions during lab hours for further support.
+Students should stay up-to-date with course materials and labs for consistent learning progress.
+Missouri S&T provides excellent resources, including labs and tutoring, to enhance your experience.
+Lab sessions focus on applying concepts learned in lectures through hands-on coding exercises.
+Weekly labs will assess your understanding of key topics from the lectures and reading materials.
+Prepare for the labs by reviewing all programming concepts taught in the class.

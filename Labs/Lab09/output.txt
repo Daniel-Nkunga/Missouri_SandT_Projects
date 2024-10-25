@@ -1,0 +1,30 @@
+Welcome to CS1580! In this class, you will learn the foundations of C++ programming, object-oriented.
+Vowels: 28 Words: 15
+Our course covers topics like variables, loops, conditionals, and arrays, vital for programming.
+Vowels: 32 Words: 13
+We emphasize logical thinking and problem-solving strategies in all assignments and projects.
+Vowels: 28 Words: 12
+The final project challenges students to develop a fully functional C++ program individually.
+Vowels: 28 Words: 13
+This class encourages collaboration and questions during lab hours for further support.
+Vowels: 28 Words: 12
+Students should stay up-to-date with course materials and labs for consistent learning progress.
+Vowels: 54 Words: 22
+Missouri S&T provides excellent resources, including labs and tutoring, to enhance your experience.
+Vowels: 58 Words: 22
+Lab sessions focus on applying concepts learned in lectures through hands-on coding exercises.
+Vowels: 54 Words: 22
+Weekly labs will assess your understanding of key topics from the lectures and reading materials.
+Vowels: 54 Words: 24
+Prepare for the labs by reviewing all programming concepts taught in the class.
+Vowels: 23 Words: 13
+"Hello, World! Programmed to work and not to feel" - Louie Zong
+Vowels: 18 Words: 12
+Programming
+Vowels: 11 Words: 1
+Character
+Vowels: 11 Words: 1
+
+Vowels: 11 Words: 1
+
+Vowels: 11 Words: 1
