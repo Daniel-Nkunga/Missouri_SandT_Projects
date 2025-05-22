@@ -4,3 +4,9 @@
 [submodule "2024-FS-B-project-dsnf6z"]
 	path = 2024-FS-B-project-dsnf6z
 	url = git@git-classes.mst.edu:2024-fs-cs1570/2024-FS-B-project-dsnf6z.git
+[submodule "CS1585/CS1585/2025-SP-A-postlab02-dsnf6z"]
+	path = CS1585/CS1585/2025-SP-A-postlab02-dsnf6z
+	url = git@git-classes.mst.edu:2025-SP-CS1585/2025-SP-A-postlab02-dsnf6z.git
+[submodule "CS1585/025-SP-A-postlab02-dsnf6z"]
+	path = CS1585/025-SP-A-postlab02-dsnf6z
+	url = git@git-classes.mst.edu:2025-SP-CS1585/2025-SP-A-postlab02-dsnf6z.git
